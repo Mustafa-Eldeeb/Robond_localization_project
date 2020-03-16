@@ -75,11 +75,11 @@ $ rosrun udacity_bot navigation_goal
 
 ### Full robot model with material colors in RViz:
 
-<p align="center"> <img src="./misc/uda_bot5.jpg"> </p>
+<p align="center"> <img src="./misc/uda_bot5.png"> </p>
 
 ### Robot after reaching goal in jackal race world.
 
-<p align="center"> <img src="./misc/uda_bot6.jpg"> </p>
+<p align="center"> <img src="./misc/uda_bot6.png"> </p>
 
 
 
@@ -161,19 +161,19 @@ odom_model_type:  diff -corrected
 ```
 
 
-<p align="center"> <img src="./misc/deeb_bot1.jpg"> </p>
+<p align="center"> <img src="./misc/deeb_bot1.png"> </p>
 
 
 ### Full robot model with material colors in RViz:
 
-<p align="center"> <img src="./misc/deeb_bot2.jpg"> </p>
+<p align="center"> <img src="./misc/deeb_bot2.png"> </p>
 
 ### Robot on its way to goal in jackal race world.
 
-<p align="center"> <img src="./misc/deeb_bot3.jpg"> </p>
+<p align="center"> <img src="./misc/deeb_bot3.png"> </p>
 
 ### Robot after reaching goal in jackal race world.
 
-<p align="center"> <img src="./misc/deeb_bot4.jpg"> </p>
+<p align="center"> <img src="./misc/deeb_bot4.png"> </p>
 
 
