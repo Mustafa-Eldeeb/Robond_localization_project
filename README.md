@@ -75,7 +75,7 @@ $ rosrun udacity_bot navigation_goal
 
 ### Full robot model with material colors in RViz:
 
-<p align="center"> <img src="./misc/capture1.png"> </p>
+<p align="center"> <img src="./misc/Capture1.PNG"> </p>
 
 ### Robot after reaching goal in jackal race world.
 
