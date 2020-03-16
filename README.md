@@ -9,13 +9,9 @@
 If you would like to create the simulated robot package from scratch please see steps on th following file:
 [udacity_bot package creation steps](udacity_bot_creation_steps.md)
 
-## Repository installation steps:
+## installation :
 
-* Clone from git repository
-```bash
-$ cd ~
-$ git clone https://github.com/mkhuthir/RoboND_Robot_Localization_Project.git catkin_ws
-```
+
 
 * Install the following packages if it is not yet installed:
 
