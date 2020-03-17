@@ -1,8 +1,8 @@
 # Overall filter parameters
 base_frame_id:    robot_footprint
 global_frame_id:  map
-min_particles:    10
-max_particles:    300
+min_particles:    15
+max_particles:    250
 initial_pose_x:   0.0
 initial_pose_y:   0.0
 initial_pose_a:   0.0
@@ -20,3 +20,4 @@ odom_alpha1:      0.2
 odom_alpha2:      0.2
 odom_alpha3:      0.2
 odom_alpha4:      0.2
+#odom_alpha5:     0.2 #used only for omni model
